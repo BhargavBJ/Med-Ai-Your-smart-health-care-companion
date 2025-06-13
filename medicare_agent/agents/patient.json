@@ -1,0 +1,120 @@
+{
+  "patients": [
+    {
+      "patient_id": "P12345",
+      "first_name": "John",
+      "last_name": "Doe",
+      "dob": "1985-06-15",
+      "gender": "Male",
+      "contact": {
+        "phone": "+1234567890",
+        "email": "john.doe@email.com",
+        "address": "123 Main St, Springfield, IL"
+      },
+      "emergency_contact": {
+        "name": "Jane Doe",
+        "relation": "Wife",
+        "phone": "+1234567891"
+      },
+      "medical_history": [
+        {
+          "condition": "Hypertension",
+          "diagnosed_on": "2015-02-20",
+          "treatment": "Medication",
+          "status": "Controlled"
+        },
+        {
+          "condition": "Asthma",
+          "diagnosed_on": "2018-08-12",
+          "treatment": "Inhalers",
+          "status": "Occasionally symptomatic"
+        }
+      ],
+      "appointments": [
+        {
+          "appointment_id": "A12345",
+          "date": "2025-06-01",
+          "doctor": "Dr. Smith",
+          "department": "Cardiology",
+          "status": "Scheduled"
+        },
+        {
+          "appointment_id": "A12346",
+          "date": "2025-06-10",
+          "doctor": "Dr. Johnson",
+          "department": "Pulmonology",
+          "status": "Scheduled"
+        }
+      ],
+      "medications": [
+        {
+          "medication_name": "Lisinopril",
+          "dosage": "10 mg",
+          "frequency": "Once a day"
+        },
+        {
+          "medication_name": "Albuterol",
+          "dosage": "90 mcg",
+          "frequency": "As needed"
+        }
+      ],
+      "diagnoses": [
+        {
+          "diagnosis_date": "2025-05-01",
+          "condition": "Common Cold",
+          "diagnosis_status": "Confirmed",
+          "treatment_plan": "Rest, hydration, over-the-counter medication"
+        }
+      ]
+    },
+    {
+      "patient_id": "P12346",
+      "first_name": "Mary",
+      "last_name": "Smith",
+      "dob": "1990-09-20",
+      "gender": "Female",
+      "contact": {
+        "phone": "+9876543210",
+        "email": "mary.smith@email.com",
+        "address": "456 Oak St, Springfield, IL"
+      },
+      "emergency_contact": {
+        "name": "John Smith",
+        "relation": "Father",
+        "phone": "+9876543211"
+      },
+      "medical_history": [
+        {
+          "condition": "Diabetes",
+          "diagnosed_on": "2017-05-14",
+          "treatment": "Insulin",
+          "status": "Managed"
+        }
+      ],
+      "appointments": [
+        {
+          "appointment_id": "A12347",
+          "date": "2025-06-05",
+          "doctor": "Dr. Lee",
+          "department": "Endocrinology",
+          "status": "Scheduled"
+        }
+      ],
+      "medications": [
+        {
+          "medication_name": "Insulin",
+          "dosage": "15 units",
+          "frequency": "Twice a day"
+        }
+      ],
+      "diagnoses": [
+        {
+          "diagnosis_date": "2025-05-15",
+          "condition": "Flu",
+          "diagnosis_status": "Confirmed",
+          "treatment_plan": "Rest, hydration, and antivirals"
+        }
+      ]
+    }
+  ]
+}
