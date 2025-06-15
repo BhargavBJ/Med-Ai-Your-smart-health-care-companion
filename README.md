@@ -18,45 +18,45 @@ Name: Adithya<br>
 Email: adithya@gmail.com<br>
 
 **Data 1:**
- {
- "name":"Alice Smith",
- "gender":"female",
- "conditions":["Asthma"],
- "symptoms":["difficulty in breathing","Loss of breath","fatigue"],
- "contact":{"phone":"987-654-3210",
- "email":"alicesmith@gmail.com"
- }
+ {<br>
+ "name":"Alice Smith",<br>
+ "gender":"female",<br>
+ "conditions":["Asthma"],<br>
+ "symptoms":["difficulty in breathing","Loss of breath","fatigue"],<br>
+ "contact":{"phone":"987-654-3210",<br>
+ "email":"alicesmith@gmail.com"<br>
+ }<br><br>
 
 **Data 2:**
-{
-  "name": "Gagan",
-  "gender": "male",
-  "conditions": ["Not Well"],
+{<br>
+  "name": "Gagan",<br>
+  "gender": "male",<br>
+  "conditions": ["Not Well"],<br>
   "symptoms": [
     "low blood pressure",
     "eye pain",
     "mood swings",
     "fatigue",
     "insomnia"
-  ],
-  "contact": {
-    "phone": "987-654-3210",
-    "email": "gagan@gmail.com"
-  }
-}
+  ],<br>
+  "contact": {<br>
+    "phone": "987-654-3210",<br>
+    "email": "gagan@gmail.com"<br>
+  }<br>
+}<br>
 
 **Data 3:**
-{
-  "name": "Adithya",
-  "gender": "male",
-  "conditions": [],
+{<br>
+  "name": "Adithya",<br>
+  "gender": "male",<br>
+  "conditions": [],<br>
   "symptoms": [
     "low blood pressure",
     "fatigue",
     "insomnia"
-  ],
-  "contact": {
-    "phone": "987-654-3210",
-    "email": "adithya@gmail.com"
-  }
+  ],<br>
+  "contact": {<br>
+    "phone": "987-654-3210",<br>
+    "email": "adithya@gmail.com"<br>
+  }<br>
 }
