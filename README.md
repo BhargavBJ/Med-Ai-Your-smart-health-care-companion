@@ -10,7 +10,7 @@ Name: Alice Smith<br>
 Email: alicesmith@gmail.com<br><br>
 
 Test Case 2<br>
-Name: Gagan<br>
+Name: gagan<br>
 Email: gagan@gmail.com<br><br>
 
 Test Case 3<br>
