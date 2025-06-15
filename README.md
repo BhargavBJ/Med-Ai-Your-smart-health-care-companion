@@ -5,17 +5,17 @@ Plese use the names and emails given in these test cases for you application tes
 
 Test Cases For logging In:
 
-Test Case 1 
-Name: Alice Smith
-Email: alicesmith@gmail.com
+Test Case 1 <br>
+Name: Alice Smith<br>
+Email: alicesmith@gmail.com<br><br>
 
-Test Case 2
-Name: Gagan
-Email: gagan@gmail.com
+Test Case 2<br>
+Name: Gagan<br>
+Email: gagan@gmail.com<br><br>
 
-Test Case 3
-Name: Adithya
-Email: adithya@gmail.com
+Test Case 3<br>
+Name: Adithya<br>
+Email: adithya@gmail.com<br>
 
 **Data 1:**
  {
